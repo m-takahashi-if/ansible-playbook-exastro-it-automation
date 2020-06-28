@@ -1,3 +1,3 @@
-- hosts: exastro-it-automation
+- hosts: exastro_it_automation
   roles:
     - exastro-it-automation
