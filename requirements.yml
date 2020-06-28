@@ -1,0 +1,3 @@
+roles:
+    - name: exastro-it-automation
+      src: https://github.com/m-takahashi-if/ansible-role-exastro-it-automation.git
